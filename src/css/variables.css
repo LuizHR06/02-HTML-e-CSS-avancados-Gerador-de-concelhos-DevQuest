@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap');
+
+:root {
+    --cor-texto: hsl(193, 38%, 86%);
+    --cor-do-botao: hsl(150, 100%, 66%);
+    --cor-do-card: hsl(217, 19%, 24%);
+    --cor-background:hsl(218, 23%, 16%);
+    --fonte-padrao: 'Manrope', sans-serif;
+}
